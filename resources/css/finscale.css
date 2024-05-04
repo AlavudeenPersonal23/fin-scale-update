@@ -1,0 +1,420 @@
+
+.dashboard-icon {
+    background: url(../img/svg/dashboard.svg);
+    background-repeat: no-repeat;
+    background-color: #52ac52;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+
+.shed-management-icon{
+    background: url(../img/svg/shed_management_white.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+.farmer-icon{
+    background: url(../img/svg/farmer.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+
+.user-icon{
+    background: url(../img/svg/user.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+
+.vehicle-icon{
+    background: url(../img/svg/vehicles.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+
+.wastage-icon{
+    background: url(../img/svg/wastages.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+
+.weighment-icon{
+    background: url(../img/svg/weighment.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+.report-icon{
+    background: url(../img/svg/report.svg);
+    background-repeat: no-repeat;
+    padding: 18px;
+    background-position: center center;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+
+.nav-item:hover span.dashboard-icon{background-color: #eff0ef;}
+.nav-item:hover span.shed-management-icon{background-color: #438d43;}
+.nav-item:hover span.farmer-icon{background-color: #438d43;}
+.nav-item:hover span.user-icon{background-color: #438d43;}
+.nav-item:hover span.vehicle-icon{background-color: #438d43;}
+.nav-item:hover span.wastage-icon{background-color: #438d43;}
+.nav-item:hover span.weighment-icon{background-color: #438d43;}
+.nav-item:hover span.report-icon{background-color: #438d43;}
+
+
+.bg-green {
+    background: #0C7F00;
+}
+
+.green-text {
+    color: #0C7F00;
+}
+
+.bg-gary {
+    background: #1D1D1D66;
+}
+
+.add-wastage {
+    font-size: 14px;
+}
+
+.bg-black {
+    background: #1D1D1D;
+}
+
+.bg-blue {
+    background: #0085E8;
+}
+
+.hs-100 {
+    height: 100%;
+    width: 100%;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.bg-gray-box {
+    background: #F4F6F8;
+    border: 2px dotted #686868;
+    margin-top: 10px;
+    padding: 4%;
+}
+
+.header-text {
+    font-size: 20px;
+}
+
+.sub-title-tab {
+    font-size: 20px;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.w-15 {
+    width: 13%;
+    height: 45px;
+}
+
+.gross-font-size {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.input-group ::placeholder {
+    color: #1d1d1d6b;
+}
+
+.red-text {
+    color: #DF2D16;
+}
+
+.btn-delete i {
+    background: #DF2D16;
+    color: #fff;
+    padding: 8px;
+    border-radius: 2px;
+}
+
+.btn-edit i {
+    background: #707070;
+    color: #fff;
+    padding: 8px;
+    border-radius: 2px;
+}
+
+.btns {
+    border: none;
+    border-radius: 4px;
+    color: rgb(63, 59, 59);
+    background: transparent;
+    cursor: pointer;
+}
+
+.wt-100 {
+    width: 100px;
+}
+
+.wt-200 {
+    width: 200px;
+}
+
+.wt-300 {
+    width: 300px;
+}
+
+.wt-120 {
+    width: 110px;
+}
+.wt-400 {
+    width: 400px;
+}
+
+.wt-500 {
+    width: 500px;
+}
+
+.wt-150 {
+    width: 150px;
+}
+
+.wt-50 {
+    width: 50px;
+}
+
+.wt-75 {
+    width: 75px;
+}
+
+.wt-250 {
+    width: 250px;
+}
+
+.wt-350 {
+    width: 350px;
+}
+
+.wt-450 {
+    width: 450px;
+}
+
+:focus {
+    border: none;
+}
+
+.text-truncate-100 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 500px;
+}
+
+label {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+input::placeholder {
+    font-size: 14px;
+}
+
+.text-truncate-150 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 150px;
+}
+
+.total-count {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.total-value-name {
+    font-size: 20px;
+    color: #707070;
+}
+
+.total-icon-deshboard {
+    background: #ededed;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.page-records {
+    color: #BEBEBE;
+}
+
+.btn.btn-box-shadow {
+    box-shadow: 1px 2px 10px 0px #ccc;
+}
+
+.btn-box-shadow:hover {
+    background: #0C7F00;
+    color: #fff;
+}
+
+.btn-active {
+    background: #0C7F00;
+    color: #fff;
+}
+
+.page-records {
+    font-size: 13px;
+}
+
+.back-arrow a {
+    color: #1D1D1D;
+    font-size: 16px;
+}
+
+.back-arrow a:hover {
+    text-decoration: none;
+}
+
+.back-arrow img {
+    width: 20px;
+}
+
+.min-hight-600 {
+    height: 600px;
+}
+
+.form-footer-fixed {
+    position: fixed !important;
+    bottom: 0;
+    background: #fcfcfc;
+    padding: 10px;
+    width: 100%;
+}
+
+.checkbox-hight {
+    color: #707070;
+    font-size: 14px;
+}
+
+.delect-btn {
+    font-size: 14px;
+    color: #DF2D16;
+}
+
+.delect-btn button {
+    padding: 5px;
+    color: #DF2D16;
+}
+
+.delect-btn button i {
+    color: #DF2D16;
+}
+
+.toasts {
+    position: absolute;
+    z-index: 9;
+    right: 0;
+
+    padding: 6px;
+    font-size: 15px;
+    width: 50%;
+    top: 2%;
+    border-radius: 4px;
+
+}
+
+.toasts-create {
+    background: #F0F5FF;
+    border: solid 1px #0c7f00;
+    color: #0c7f00;
+}
+
+.toasts-deleted {
+    background: #FFECEA;
+    border: solid 1px #DF2D16;
+    color: #DF2D16;
+}
+
+.toasts-updated {
+    background: #F0F5FF;
+    border: solid 1px #224CA0;
+    color: #224CA0;
+}
+
+.toasts-close {
+    position: absolute;
+    right: 10px;
+}
+
+.toasts-close a {
+    color: #000;
+}
+
+label {
+    color: #707070;
+}
+
+.checkbox-hight .form-control {
+    height: 20px;
+}
+
+.tab-list {
+    margin: 0;
+    border-bottom: solid 1px #ccc;
+    margin-bottom: 20px;
+}
+
+.tab-list ul {
+    margin: 0;
+    display: flex;
+    padding: 0;
+}
+
+.tab-list ul li {
+    list-style: none;
+    padding: 10px;
+}
+
+.tab-list ul li:first-child {
+    padding-left: 0;
+}
+
+.active {
+    color: #0C7F00;
+    border-bottom: solid 1px #0C7F00;
+}
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+    .w-15 {
+        width: 48%;
+    }
+
+    .back-arrow {
+        display: none;
+    }
+}
